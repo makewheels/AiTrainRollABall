@@ -34,7 +34,7 @@ public class UserBall : MonoBehaviour
         {
             this.transform.position = new Vector3(0, 0.5f, 0);
             rbody.velocity = new Vector3(0, 0, 0);
-            //rbody.angularVelocity=new Vector3(0, 0, 0);
+            rbody.angularVelocity=new Vector3(0, 0, 0);
             rbody.MovePosition(new Vector3(0, 0.5f, 0));
         }
 
