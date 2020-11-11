@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afcb8cf9-1b17-4d7a-8af5-3fd68f831515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AiTrainRollABall/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AiTrainRollABall/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AiTrainRollABall/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AiTrainRollABall/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AiTrainRollABall/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AiTrainRollABall/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall.nn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall.nn.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.ckpt.data-00000-of-00001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.ckpt.index.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.nn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/RollerBall-300012.nn.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/checkpoint.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/events.out.tfevents.1605000972.DESKTOP-BJRPH4L" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/events.out.tfevents.1605000972.DESKTOP-BJRPH4L.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/frozen_graph_def.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/frozen_graph_def.pb.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/raw_graph_def.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/RollerBall/raw_graph_def.pb.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/configuration.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/configuration.yaml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/run_logs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/run_logs/timers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/run_logs/timers.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/run_logs/training_status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Train/results/RollerBall/run_logs/training_status.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ML-Agents/Timers/SampleScene_timers.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ML-Agents/Timers/SampleScene_timers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AiRollerAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AiRollerAgent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UserBall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UserBall.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall.nn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall.nn.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.ckpt.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.ckpt.data-00000-of-00001.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.ckpt.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.ckpt.index.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.nn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/RollerBall-300007.nn.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/checkpoint.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/events.out.tfevents.1603002286.DESKTOP-BJRPH4L" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/events.out.tfevents.1603002286.DESKTOP-BJRPH4L.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/frozen_graph_def.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/frozen_graph_def.pb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/raw_graph_def.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/RollerBall/raw_graph_def.pb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/configuration.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/configuration.yaml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/run_logs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/run_logs/timers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/run_logs/timers.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/run_logs/training_status.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Train/results/ppo/run_logs/training_status.json.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/AiRollerAgent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k4u6Y9IuhyTRKRFlXTTtHjwpEx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afcb8cf9-1b17-4d7a-8af5-3fd68f831515" name="Default Changelist" comment="" />
+      <created>1604972012635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604972012635</updated>
+      <workItem from="1604972027759" duration="343000" />
+      <workItem from="1605000919526" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="56" key="SettingsEditor" timestamp="1605000935959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605000935959" />
+  </component>
+</project>

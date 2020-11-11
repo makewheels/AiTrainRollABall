@@ -25,6 +25,7 @@ public class UserBall : MonoBehaviour
         float horizontal = joystick.Horizontal;
         float vertical = joystick.Vertical;
         Vector3 force = Vector3.zero;
+        
         force.x = horizontal;
         force.z = vertical;
         rbody.AddForce(force * 10);
